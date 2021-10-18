@@ -1,0 +1,20 @@
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\bin\Debug\netcoreapp3.1\1sza apka.exe
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\bin\Debug\netcoreapp3.1\1sza apka.deps.json
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\bin\Debug\netcoreapp3.1\1sza apka.runtimeconfig.json
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\bin\Debug\netcoreapp3.1\1sza apka.runtimeconfig.dev.json
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\bin\Debug\netcoreapp3.1\1sza apka.dll
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\bin\Debug\netcoreapp3.1\1sza apka.pdb
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.csproj.AssemblyReference.cache
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka_MarkupCompile.cache
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka_MarkupCompile.lref
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.g.resources
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.AssemblyInfoInputs.cache
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.AssemblyInfo.cs
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.csproj.CoreCompileInputs.cache
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.dll
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.pdb
+C:\Users\Szkola\source\repos\1sza apka\1sza apka\obj\Debug\netcoreapp3.1\1sza apka.genruntimeconfig.cache

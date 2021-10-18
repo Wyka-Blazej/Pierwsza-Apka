@@ -1,0 +1,22 @@
+﻿<Window x:Class="_1sza_apka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_1sza_apka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="82*"/>
+            <RowDefinition Height="71*"/>
+            <RowDefinition Height="64*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="btnStart" Content="Start" HorizontalAlignment="Center"
+            Height="100" Margin="0,53,0,0" VerticalAlignment="Top" Width="220"
+            FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" Click="btnStart_Click"/>
+        <Button x:Name="btnTime" Content="Czas" HorizontalAlignment="Center" Height="100"
+            Margin="0,106,0,0" VerticalAlignment="Top" Width="220"
+            FontFamily="Times New Roman" FontSize="26.667" FontWeight="Bold" MouseEnter="btnTime_MouseEnter" MouseLeave="btnTime_MouseLeave" Grid.RowSpan="2" Grid.Row="1"/>
+    </Grid>
+</Window>
